@@ -10,3 +10,7 @@ This notebook was built as a final assignment for the 5 Weeks Deep Learning Boot
 ![Image_132](https://user-images.githubusercontent.com/106438902/218193828-4553707c-d873-49ce-9ad3-15daf0c8ff8d.jpg)
 ![Image_2285](https://user-images.githubusercontent.com/106438902/218193909-131e0a83-a787-4f16-a251-9ffa53428654.jpg)
 ![Image_1854](https://user-images.githubusercontent.com/106438902/218193972-f523b2e2-c491-4218-a8a3-a7ac3c83eea2.jpg)
+![Image_1706](https://user-images.githubusercontent.com/106438902/218194096-7a20f80d-400c-4d49-a986-879d416cae9c.jpg)
+![Image_1642](https://user-images.githubusercontent.com/106438902/218194116-fc61318b-ef8f-4b20-8fcc-2efb67a17ebe.jpg)
+![Image_1098](https://user-images.githubusercontent.com/106438902/218194180-07dd326e-bf8f-4f4b-8ed2-4ed1bcdb3a40.jpg)
+![Image_1008](https://user-images.githubusercontent.com/106438902/218194228-625c2d5c-5331-4f95-98b2-e5b7031daed9.jpg)
